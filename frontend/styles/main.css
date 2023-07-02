@@ -1,0 +1,156 @@
+.form-inline {
+    padding-left: 120px;
+    padding-right: 120px;
+    width: 1000px;
+    height: 100px;
+    background: #00AB11;
+
+    font-family: 'Inter';
+    font-weight: 1000;
+    font-size: 7px;
+   
+    color: #000000;
+}
+
+.profile {
+    box-sizing: border-box;
+    width: 42px;
+    height: 35px;
+    background: #FFFFFF;
+    border-width: 1px 1px 1px 0px;
+    border-style: solid;
+    border-radius: 0px 4px 4px 0px;
+    margin-left: -20px;
+    font-size: 30px;
+}
+
+/* Dompet Digital */
+.gopay{
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 60px;
+    width: 1000px;
+    height: 200px;
+    background: #0081A0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+
+.btn-gopaysaldo{
+    margin-left: 5px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 300px;
+    height: 150px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+}
+.isi-saldo{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    color: #030303;
+}
+.riwayat{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #00AC14;
+}
+.buy{
+    margin-left: 100px;
+    margin-top: 80Px;
+}
+.add{
+    margin-left: 99px;
+    margin-top: 80Px;
+}
+.eskplor{
+    margin-left: 60px;
+    margin-top: 80Px;
+}
+
+.tag{
+    transition: all 0.2s ease;
+}
+
+.tag:hover{
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.gopaytag{
+    margin-top: 5px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+/* Tutup Dompet Digital */
+
+/* Categories */
+.component-categories:hover {
+    text-decoration: none;
+    transform: scale(1.1);
+}
+
+.categories-img {
+    margin-top: 165px;
+    padding: 0.5rem;
+    transition: all 0.3 ease;
+}
+
+.categories-text {
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 10px;
+    text-align: center;
+
+    color: #000000;
+}
+/* Tutup Categories */
+
+/* Akses Cepat */
+.akses-cepat {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 11px;
+
+    color: #000000;
+}
+/* Tutup Akses Cepat */
+
+/* Promo */
+.promo{
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 66px;
+}
+.promo-kata{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+/* Tutup Promo */
+
+/* Footer */
+.footer h2 {
+    width: 500px;
+    height: 500px;
+    left: 90px;
+    top: 900px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 11px;
+}
+/* Tutup Footer */
